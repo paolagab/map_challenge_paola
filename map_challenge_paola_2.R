@@ -124,8 +124,5 @@ study_area <- st_read("C:/Users/paoga/Documents/AÑO 2023-2024/REDUCE/study_area
           panel.grid.minor = element_blank(),
           panel.border = element_rect(colour = "black", fill=NA, linewidth=1))
  
-  
-  library(ggspatial)
- 
-# EXTRA COMPLEX ZOOM
+
   
